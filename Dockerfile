@@ -28,7 +28,7 @@ RUN apt-get update && \
     rsync \
     sed \
     tar \
-    vim \ 
+    vim \
     unzip \
     wget \
     bison \
